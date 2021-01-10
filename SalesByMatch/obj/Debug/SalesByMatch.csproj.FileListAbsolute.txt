@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\bin\Debug\SalesByMatch.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\bin\Debug\SalesByMatch.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\bin\Debug\SalesByMatch.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\obj\Debug\SalesByMatch.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\obj\Debug\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\obj\Debug\SalesByMatch.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\SalesByMatch\obj\Debug\SalesByMatch.pdb

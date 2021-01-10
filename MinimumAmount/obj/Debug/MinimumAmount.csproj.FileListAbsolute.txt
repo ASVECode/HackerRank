@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\bin\Debug\MinimumAmount.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\bin\Debug\MinimumAmount.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\bin\Debug\MinimumAmount.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\obj\Debug\MinimumAmount.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\obj\Debug\MinimumAmount.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\obj\Debug\MinimumAmount.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\MinimumAmount\obj\Debug\MinimumAmount.pdb

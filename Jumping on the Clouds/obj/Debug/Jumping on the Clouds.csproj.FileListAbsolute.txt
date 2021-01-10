@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\bin\Debug\Jumping on the Clouds.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\bin\Debug\Jumping on the Clouds.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\bin\Debug\Jumping on the Clouds.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\obj\Debug\Jumping on the Clouds.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\obj\Debug\Jumping on the Clouds.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\obj\Debug\Jumping on the Clouds.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Jumping on the Clouds\obj\Debug\Jumping on the Clouds.pdb

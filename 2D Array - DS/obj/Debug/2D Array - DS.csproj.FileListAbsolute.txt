@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\bin\Debug\2D Array - DS.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\bin\Debug\2D Array - DS.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\bin\Debug\2D Array - DS.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\obj\Debug\2D Array - DS.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\obj\Debug\2D Array - DS.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\obj\Debug\2D Array - DS.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\2D Array - DS\obj\Debug\2D Array - DS.pdb

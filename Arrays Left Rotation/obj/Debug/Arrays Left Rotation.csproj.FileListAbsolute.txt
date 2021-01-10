@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\bin\Debug\Arrays Left Rotation.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\bin\Debug\Arrays Left Rotation.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\bin\Debug\Arrays Left Rotation.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\obj\Debug\Arrays Left Rotation.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\obj\Debug\Arrays Left Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\obj\Debug\Arrays Left Rotation.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Arrays Left Rotation\obj\Debug\Arrays Left Rotation.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\bin\Debug\Counting Valleys.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\bin\Debug\Counting Valleys.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\bin\Debug\Counting Valleys.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\obj\Debug\CountingValleys.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\obj\Debug\Counting Valleys.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Counting Valleys\obj\Debug\Counting Valleys.pdb
