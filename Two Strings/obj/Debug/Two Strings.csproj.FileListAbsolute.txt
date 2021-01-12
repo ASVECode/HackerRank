@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\bin\Debug\Two Strings.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\bin\Debug\Two Strings.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\bin\Debug\Two Strings.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\obj\Debug\Two Strings.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\obj\Debug\Two Strings.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\obj\Debug\Two Strings.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Two Strings\obj\Debug\Two Strings.pdb

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Array - DS", "2D Array -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays Left Rotation", "Arrays Left Rotation\Arrays Left Rotation.csproj", "{46981FB3-8A53-4EC9-A6AF-02B119ABB7A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Strings", "Two Strings\Two Strings.csproj", "{F2FC14F8-D79C-403A-BFF4-0AFCEC8CB861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{46981FB3-8A53-4EC9-A6AF-02B119ABB7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46981FB3-8A53-4EC9-A6AF-02B119ABB7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46981FB3-8A53-4EC9-A6AF-02B119ABB7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FC14F8-D79C-403A-BFF4-0AFCEC8CB861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FC14F8-D79C-403A-BFF4-0AFCEC8CB861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FC14F8-D79C-403A-BFF4-0AFCEC8CB861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FC14F8-D79C-403A-BFF4-0AFCEC8CB861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
