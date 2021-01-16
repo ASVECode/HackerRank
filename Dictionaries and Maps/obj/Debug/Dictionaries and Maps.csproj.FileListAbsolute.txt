@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\bin\Debug\Dictionaries and Maps.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\bin\Debug\Dictionaries and Maps.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\bin\Debug\Dictionaries and Maps.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\obj\Debug\Dictionaries and Maps.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\obj\Debug\Dictionaries and Maps.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\obj\Debug\Dictionaries and Maps.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Dictionaries and Maps\obj\Debug\Dictionaries and Maps.csprojAssemblyReference.cache

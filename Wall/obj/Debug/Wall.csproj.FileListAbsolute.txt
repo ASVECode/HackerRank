@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\bin\Debug\Wall.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\bin\Debug\Wall.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\bin\Debug\Wall.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\obj\Debug\Wall.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\obj\Debug\Wall.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\obj\Debug\Wall.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Wall\obj\Debug\Wall.pdb
