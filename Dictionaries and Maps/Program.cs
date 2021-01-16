@@ -20,10 +20,7 @@ namespace Dictionaries_and_Maps
                     phoneRegister.Add(line[0], line[1]);
                 }
             }
-            //foreach (var name in phoneRegister)
-            //{
-            //    Console.WriteLine($"{name.Key} = {name.Value}");
-            //}
+            
             while(true){
                 var name=Console.ReadLine();
                 if(String.IsNullOrEmpty(name)){
