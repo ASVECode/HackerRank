@@ -26,8 +26,16 @@ namespace Dictionaries_and_Maps
             //}
             while(true){
                 var name=Console.ReadLine();
+                if(String.IsNullOrEmpty(name)){
+                    break;
+                }
                 if(phoneRegister.ContainsKey(name)){
-                    Console.WriteLine($"{phoneRegister[name]}");
+                    string value = "";
+                    if (phoneRegister.TryGetValue(name, out value))
+                    {
+                        Console.WriteLine("{0}={1}", name,value);
+                    }
+                    
                 }else{
                     Console.WriteLine($"Not found");
                 }
