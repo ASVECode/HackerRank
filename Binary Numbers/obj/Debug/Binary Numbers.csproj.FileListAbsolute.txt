@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\bin\Debug\Binary Numbers.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\bin\Debug\Binary Numbers.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\bin\Debug\Binary Numbers.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\obj\Debug\Binary Numbers.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\obj\Debug\Binary Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\obj\Debug\Binary Numbers.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Binary Numbers\obj\Debug\Binary Numbers.pdb

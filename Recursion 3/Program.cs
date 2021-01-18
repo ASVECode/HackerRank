@@ -24,7 +24,6 @@ namespace Recursion_3
             {
                 return n* Fact(n -1);
             }
-            
         }
     }
 }
