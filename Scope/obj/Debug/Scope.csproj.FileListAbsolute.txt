@@ -1,0 +1,7 @@
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\obj\Debug\Scope.csprojAssemblyReference.cache
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\bin\Debug\Scope.exe.config
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\bin\Debug\Scope.exe
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\bin\Debug\Scope.pdb
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\obj\Debug\Scope.exe
+C:\Users\PC-2\Desktop\HR\HackerRank\Scope\obj\Debug\Scope.pdb
