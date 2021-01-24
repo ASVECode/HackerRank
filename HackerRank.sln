@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Classes", "Abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List", "Linked List\Linked List.csproj", "{92A48F39-EDD5-4A08-8AF0-D9203E9533BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions - String to Integer", "Exceptions - String to Integer\Exceptions - String to Integer.csproj", "{9C071018-8ABC-4B01-A929-43576E144300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{92A48F39-EDD5-4A08-8AF0-D9203E9533BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92A48F39-EDD5-4A08-8AF0-D9203E9533BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92A48F39-EDD5-4A08-8AF0-D9203E9533BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C071018-8ABC-4B01-A929-43576E144300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C071018-8ABC-4B01-A929-43576E144300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C071018-8ABC-4B01-A929-43576E144300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C071018-8ABC-4B01-A929-43576E144300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
