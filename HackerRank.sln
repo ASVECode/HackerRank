@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List", "Linked List\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions - String to Integer", "Exceptions - String to Integer\Exceptions - String to Integer.csproj", "{9C071018-8ABC-4B01-A929-43576E144300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues and Stacks", "Queues and Stacks\Queues and Stacks.csproj", "{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9C071018-8ABC-4B01-A929-43576E144300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C071018-8ABC-4B01-A929-43576E144300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C071018-8ABC-4B01-A929-43576E144300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

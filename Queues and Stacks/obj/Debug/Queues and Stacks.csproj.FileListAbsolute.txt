@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\obj\Debug\Queues and Stacks.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\obj\Debug\Queues and Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\bin\Debug\Queues and Stacks.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\bin\Debug\Queues and Stacks.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\bin\Debug\Queues and Stacks.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\obj\Debug\Queues and Stacks.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Queues and Stacks\obj\Debug\Queues and Stacks.pdb
