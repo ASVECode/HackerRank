@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions - String to Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues and Stacks", "Queues and Stacks\Queues and Stacks.csproj", "{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{51FBFD8E-759A-432D-9AF1-938C3CC66167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B3EAA74-91D5-4C79-BBD1-BC85C5070736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
