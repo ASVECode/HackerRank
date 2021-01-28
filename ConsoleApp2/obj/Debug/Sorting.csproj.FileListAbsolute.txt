@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

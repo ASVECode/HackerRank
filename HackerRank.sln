@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues and Stacks", "Queues
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{51FBFD8E-759A-432D-9AF1-938C3CC66167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "ConsoleApp2\Sorting.csproj", "{F855129D-50D0-4458-B96F-DBB334A7C7E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51FBFD8E-759A-432D-9AF1-938C3CC66167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F855129D-50D0-4458-B96F-DBB334A7C7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F855129D-50D0-4458-B96F-DBB334A7C7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F855129D-50D0-4458-B96F-DBB334A7C7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F855129D-50D0-4458-B96F-DBB334A7C7E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
