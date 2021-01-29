@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\bin\Debug\Generics.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\bin\Debug\Generics.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\bin\Debug\Generics.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\obj\Debug\Generics.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Generics\obj\Debug\Generics.pdb
