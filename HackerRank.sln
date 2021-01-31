@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search Trees", "Binary Search Trees\Binary Search Trees.csproj", "{ABF5F51C-53D4-4702-A19B-903767B4190C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Level-Order Traversal", "BST Level-Order Traversal\BST Level-Order Traversal.csproj", "{C2BEF4F5-3667-4DCD-B7DD-A6A4A1E84CC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{ABF5F51C-53D4-4702-A19B-903767B4190C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABF5F51C-53D4-4702-A19B-903767B4190C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABF5F51C-53D4-4702-A19B-903767B4190C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BEF4F5-3667-4DCD-B7DD-A6A4A1E84CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BEF4F5-3667-4DCD-B7DD-A6A4A1E84CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BEF4F5-3667-4DCD-B7DD-A6A4A1E84CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BEF4F5-3667-4DCD-B7DD-A6A4A1E84CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
