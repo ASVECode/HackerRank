@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Level-Order Traversal",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More Linked Lists", "More Linked Lists\More Linked Lists.csproj", "{FCE87076-F8EF-432C-8B8F-34688ACF2DCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Time and Complexity", "Running Time and Complexity\Running Time and Complexity.csproj", "{A72D102B-8DE0-4519-81E2-993A50D54ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Logic", "Nested Logic\Nested Logic.csproj", "{5610DCDD-B158-42B3-AC55-F5A60599421F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{FCE87076-F8EF-432C-8B8F-34688ACF2DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCE87076-F8EF-432C-8B8F-34688ACF2DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE87076-F8EF-432C-8B8F-34688ACF2DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72D102B-8DE0-4519-81E2-993A50D54ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72D102B-8DE0-4519-81E2-993A50D54ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72D102B-8DE0-4519-81E2-993A50D54ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72D102B-8DE0-4519-81E2-993A50D54ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5610DCDD-B158-42B3-AC55-F5A60599421F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5610DCDD-B158-42B3-AC55-F5A60599421F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5610DCDD-B158-42B3-AC55-F5A60599421F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5610DCDD-B158-42B3-AC55-F5A60599421F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
