@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Logic", "Nested Logi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{EAD6ACF2-2648-428B-91C6-9B045172DDD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx, Patterns, and Intro to Databases", "RegEx, Patterns, and Intro to Databases\RegEx, Patterns, and Intro to Databases.csproj", "{FCFB8DF9-B537-4C15-B26E-74D32BDFE73C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{EAD6ACF2-2648-428B-91C6-9B045172DDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAD6ACF2-2648-428B-91C6-9B045172DDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAD6ACF2-2648-428B-91C6-9B045172DDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFB8DF9-B537-4C15-B26E-74D32BDFE73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFB8DF9-B537-4C15-B26E-74D32BDFE73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFB8DF9-B537-4C15-B26E-74D32BDFE73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFB8DF9-B537-4C15-B26E-74D32BDFE73C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
