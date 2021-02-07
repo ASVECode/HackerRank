@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\bin\Debug\Mark and Toys.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\bin\Debug\Mark and Toys.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\bin\Debug\Mark and Toys.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\obj\Debug\Mark and Toys.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\obj\Debug\Mark and Toys.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\obj\Debug\Mark and Toys.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mark and Toys\obj\Debug\Mark and Toys.pdb

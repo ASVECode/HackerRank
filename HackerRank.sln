@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx, Patterns, and Intro 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise AND", "Bitwise AND\Bitwise AND.csproj", "{76DE54F5-0670-4013-BD22-4E429C0FDFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mark and Toys", "Mark and Toys\Mark and Toys.csproj", "{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{76DE54F5-0670-4013-BD22-4E429C0FDFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DE54F5-0670-4013-BD22-4E429C0FDFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DE54F5-0670-4013-BD22-4E429C0FDFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
