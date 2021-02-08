@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\bin\Debug\Exceptions - String to Integer.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\bin\Debug\Exceptions - String to Integer.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\bin\Debug\Exceptions - String to Integer.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\obj\Debug\Exceptions - String to Integer.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\obj\Debug\Exceptions - String to Integer.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\obj\Debug\Exceptions - String to Integer.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Exceptions - String to Integer\obj\Debug\Exceptions - String to Integer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\bin\Debug\Running Time and Complexity.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\bin\Debug\Running Time and Complexity.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\bin\Debug\Running Time and Complexity.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\obj\Debug\Running Time and Complexity.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\obj\Debug\Running Time and Complexity.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\obj\Debug\Running Time and Complexity.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Running Time and Complexity\obj\Debug\Running Time and Complexity.pdb

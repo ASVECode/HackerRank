@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\bin\Debug\Let's Review.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\bin\Debug\Let's Review.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\bin\Debug\Let's Review.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\obj\Debug\Let's Review.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\obj\Debug\Let's Review.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\obj\Debug\Let's Review.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Let's Review\obj\Debug\Let's Review.pdb

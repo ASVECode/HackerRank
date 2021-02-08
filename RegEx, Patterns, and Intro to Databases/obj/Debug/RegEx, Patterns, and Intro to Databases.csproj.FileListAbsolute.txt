@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\bin\Debug\RegEx, Patterns, and Intro to Databases.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\bin\Debug\RegEx, Patterns, and Intro to Databases.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\bin\Debug\RegEx, Patterns, and Intro to Databases.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\obj\Debug\RegEx, Patterns, and Intro to Databases.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\obj\Debug\RegEx, Patterns, and Intro to Databases.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\obj\Debug\RegEx, Patterns, and Intro to Databases.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\RegEx, Patterns, and Intro to Databases\obj\Debug\RegEx, Patterns, and Intro to Databases.pdb

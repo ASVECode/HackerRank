@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\bin\Debug\More Linked Lists.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\bin\Debug\More Linked Lists.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\bin\Debug\More Linked Lists.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\obj\Debug\More Linked Lists.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\obj\Debug\More Linked Lists.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\obj\Debug\More Linked Lists.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\More Linked Lists\obj\Debug\More Linked Lists.pdb

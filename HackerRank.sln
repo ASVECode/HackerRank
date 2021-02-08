@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise AND", "Bitwise AND\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mark and Toys", "Mark and Toys\Mark and Toys.csproj", "{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort-Counting Inversions", "Merge Sort-Counting Inversions\Merge Sort-Counting Inversions.csproj", "{3A4EFBA2-6FDA-4B6C-83A8-6659A67A15E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7CED3F-79CB-43FF-990D-B45DB3C500E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4EFBA2-6FDA-4B6C-83A8-6659A67A15E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4EFBA2-6FDA-4B6C-83A8-6659A67A15E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4EFBA2-6FDA-4B6C-83A8-6659A67A15E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4EFBA2-6FDA-4B6C-83A8-6659A67A15E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

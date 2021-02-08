@@ -5,3 +5,10 @@ C:\Users\PC-2\Desktop\HR\HackerRank\Linked List\obj\Debug\Linked List.csprojAsse
 C:\Users\PC-2\Desktop\HR\HackerRank\Linked List\obj\Debug\Linked List.csproj.CoreCompileInputs.cache
 C:\Users\PC-2\Desktop\HR\HackerRank\Linked List\obj\Debug\Linked List.exe
 C:\Users\PC-2\Desktop\HR\HackerRank\Linked List\obj\Debug\Linked List.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\bin\Debug\Linked List.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\bin\Debug\Linked List.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\bin\Debug\Linked List.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\obj\Debug\Linked List.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\obj\Debug\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\obj\Debug\Linked List.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Linked List\obj\Debug\Linked List.pdb

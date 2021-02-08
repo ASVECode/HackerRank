@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Interfaces\obj\Debug\Interfaces.pdb

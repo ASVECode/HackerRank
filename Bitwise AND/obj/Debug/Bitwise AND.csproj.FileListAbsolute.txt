@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\bin\Debug\Bitwise AND.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\bin\Debug\Bitwise AND.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\bin\Debug\Bitwise AND.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\obj\Debug\Bitwise AND.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\obj\Debug\Bitwise AND.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\obj\Debug\Bitwise AND.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Bitwise AND\obj\Debug\Bitwise AND.pdb

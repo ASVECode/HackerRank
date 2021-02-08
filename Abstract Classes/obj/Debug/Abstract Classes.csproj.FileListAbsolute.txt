@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\bin\Debug\Abstract Classes.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\bin\Debug\Abstract Classes.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\bin\Debug\Abstract Classes.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\obj\Debug\Abstract Classes.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\obj\Debug\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\obj\Debug\Abstract Classes.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Abstract Classes\obj\Debug\Abstract Classes.pdb

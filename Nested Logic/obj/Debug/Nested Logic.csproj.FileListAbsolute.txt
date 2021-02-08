@@ -1,0 +1,6 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Nested Logic\bin\Debug\Nested Logic.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Nested Logic\bin\Debug\Nested Logic.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Nested Logic\bin\Debug\Nested Logic.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Nested Logic\obj\Debug\Nested Logic.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Nested Logic\obj\Debug\Nested Logic.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Nested Logic\obj\Debug\Nested Logic.pdb
