@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\bin\Debug\Recursion 3.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\bin\Debug\Recursion 3.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\bin\Debug\Recursion 3.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\obj\Debug\Recursion 3.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\obj\Debug\Recursion 3.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\obj\Debug\Recursion 3.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Recursion 3\obj\Debug\Recursion 3.pdb
