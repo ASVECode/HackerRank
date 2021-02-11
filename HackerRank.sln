@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort-Counting Inversi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Digit Sum", "Recursive Digit Sum\Recursive Digit Sum.csproj", "{62931D20-13EE-41D9-A174-1041734BB59F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful Pairs", "Beautiful Pairs\Beautiful Pairs.csproj", "{288CE3B2-5B85-42C1-8A44-A95DD87DF94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonals Difference", "Diagonals Difference\Diagonals Difference.csproj", "{2C6227C5-2918-4025-988A-0F790AA0FE3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{62931D20-13EE-41D9-A174-1041734BB59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62931D20-13EE-41D9-A174-1041734BB59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62931D20-13EE-41D9-A174-1041734BB59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288CE3B2-5B85-42C1-8A44-A95DD87DF94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288CE3B2-5B85-42C1-8A44-A95DD87DF94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288CE3B2-5B85-42C1-8A44-A95DD87DF94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288CE3B2-5B85-42C1-8A44-A95DD87DF94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6227C5-2918-4025-988A-0F790AA0FE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6227C5-2918-4025-988A-0F790AA0FE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6227C5-2918-4025-988A-0F790AA0FE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6227C5-2918-4025-988A-0F790AA0FE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

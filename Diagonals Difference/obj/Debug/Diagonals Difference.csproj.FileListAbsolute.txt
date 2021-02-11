@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\bin\Debug\Diagonals Difference.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\bin\Debug\Diagonals Difference.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\bin\Debug\Diagonals Difference.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\obj\Debug\Diagonals Difference.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\obj\Debug\Diagonals Difference.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\obj\Debug\Diagonals Difference.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Diagonals Difference\obj\Debug\Diagonals Difference.pdb
