@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\bin\Debug\StareCase.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\bin\Debug\StareCase.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\bin\Debug\StareCase.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\obj\Debug\StairCase.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\obj\Debug\StairCase.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\obj\Debug\StareCase.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\StareCase\obj\Debug\StareCase.pdb
