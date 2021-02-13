@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\bin\Debug\Mini-Max Sum.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\bin\Debug\Mini-Max Sum.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\bin\Debug\Mini-Max Sum.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\obj\Debug\Mini-Max Sum.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\obj\Debug\Mini-Max Sum.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\obj\Debug\Mini-Max Sum.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Mini-Max Sum\obj\Debug\Mini-Max Sum.pdb
