@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\obj\Debug\Compare the Triplets.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\obj\Debug\Compare the Triplets.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\bin\Debug\Compare the Triplets.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\bin\Debug\Compare the Triplets.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\bin\Debug\Compare the Triplets.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\obj\Debug\Compare the Triplets.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Compare the Triplets\obj\Debug\Compare the Triplets.pdb
