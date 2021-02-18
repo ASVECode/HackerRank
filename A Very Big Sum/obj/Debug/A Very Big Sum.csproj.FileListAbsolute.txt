@@ -1,0 +1,7 @@
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\bin\Debug\A Very Big Sum.exe.config
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\bin\Debug\A Very Big Sum.exe
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\bin\Debug\A Very Big Sum.pdb
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\obj\Debug\A Very Big Sum.csprojAssemblyReference.cache
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\obj\Debug\A Very Big Sum.csproj.CoreCompileInputs.cache
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\obj\Debug\A Very Big Sum.exe
+C:\Users\PC-2\Desktop\HackerRank-main\A Very Big Sum\obj\Debug\A Very Big Sum.pdb
