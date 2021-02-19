@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\bin\Debug\Find the nearest clone.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\bin\Debug\Find the nearest clone.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\bin\Debug\Find the nearest clone.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\obj\Debug\Find the nearest clone.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\obj\Debug\Find the nearest clone.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\obj\Debug\Find the nearest clone.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Find the nearest clone\obj\Debug\Find the nearest clone.pdb

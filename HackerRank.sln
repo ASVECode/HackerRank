@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare the Triplets", "Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the nearest clone", "Find the nearest clone\Find the nearest clone.csproj", "{5777318F-49A8-4399-9879-6CAECA3DE2F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash Tables- Ice Cream Parlor", "Hash Tables- Ice Cream Parlor\Hash Tables- Ice Cream Parlor.csproj", "{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{5777318F-49A8-4399-9879-6CAECA3DE2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5777318F-49A8-4399-9879-6CAECA3DE2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5777318F-49A8-4399-9879-6CAECA3DE2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
