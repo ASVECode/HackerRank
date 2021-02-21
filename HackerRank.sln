@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the nearest clone", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash Tables- Ice Cream Parlor", "Hash Tables- Ice Cream Parlor\Hash Tables- Ice Cream Parlor.csproj", "{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple Sum", "Triple Sum\Triple Sum.csproj", "{E914A6E9-05FC-4676-BB12-84329C10D265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pairs", "Pairs\Pairs.csproj", "{056CEE27-A90C-42AC-A741-A122B8C9BE66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E4BD7E-36FB-4EA5-AED7-A7D64357449C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E914A6E9-05FC-4676-BB12-84329C10D265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E914A6E9-05FC-4676-BB12-84329C10D265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E914A6E9-05FC-4676-BB12-84329C10D265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E914A6E9-05FC-4676-BB12-84329C10D265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056CEE27-A90C-42AC-A741-A122B8C9BE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056CEE27-A90C-42AC-A741-A122B8C9BE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056CEE27-A90C-42AC-A741-A122B8C9BE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056CEE27-A90C-42AC-A741-A122B8C9BE66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

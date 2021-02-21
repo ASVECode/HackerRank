@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E914A6E9-05FC-4676-BB12-84329C10D265}</ProjectGuid>
+    <ProjectGuid>{056CEE27-A90C-42AC-A741-A122B8C9BE66}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Triple_Sum</RootNamespace>
-    <AssemblyName>Triple Sum</AssemblyName>
+    <RootNamespace>Pairs</RootNamespace>
+    <AssemblyName>Pairs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

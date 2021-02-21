@@ -8,31 +8,38 @@ namespace Triple_Sum
     {
         static void Main(string[] args)
         {
-            TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-            string[] lenaLenbLenc = Console.ReadLine().Split(' ');
+            int[] a = { 7, 5, 3, 5, 7 };
+            int[] b = { 3, 6 };
+            int[] c = { 4, 6, 9 };
+            long ans = triplets(a, b, c);
+            Console.WriteLine(ans);
 
-            int lena = Convert.ToInt32(lenaLenbLenc[0]);
+            //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-            int lenb = Convert.ToInt32(lenaLenbLenc[1]);
+            //string[] lenaLenbLenc = Console.ReadLine().Split(' ');
 
-            int lenc = Convert.ToInt32(lenaLenbLenc[2]);
+            //int lena = Convert.ToInt32(lenaLenbLenc[0]);
 
-            int[] arra = Array.ConvertAll(Console.ReadLine()
-                .Split(' '), arraTemp => Convert.ToInt32(arraTemp));
+            //int lenb = Convert.ToInt32(lenaLenbLenc[1]);
 
-            int[] arrb = Array.ConvertAll(Console.ReadLine()
-                .Split(' '), arrbTemp => Convert.ToInt32(arrbTemp));
+            //int lenc = Convert.ToInt32(lenaLenbLenc[2]);
 
-            int[] arrc = Array.ConvertAll(Console.ReadLine()
-                .Split(' '), arrcTemp => Convert.ToInt32(arrcTemp));
-            
-            long ans = triplets(arra, arrb, arrc);
+            //int[] arra = Array.ConvertAll(Console.ReadLine()
+            //    .Split(' '), arraTemp => Convert.ToInt32(arraTemp));
 
-            textWriter.WriteLine(ans);
+            //int[] arrb = Array.ConvertAll(Console.ReadLine()
+            //    .Split(' '), arrbTemp => Convert.ToInt32(arrbTemp));
 
-            textWriter.Flush();
-            textWriter.Close();
+            //int[] arrc = Array.ConvertAll(Console.ReadLine()
+            //    .Split(' '), arrcTemp => Convert.ToInt32(arrcTemp));
+
+            //long ans = triplets(arra, arrb, arrc);
+
+            //textWriter.WriteLine(ans);
+
+            //textWriter.Flush();
+            //textWriter.Close();
         }
 
         private static long triplets(int[] a, int[] b, int[] c)

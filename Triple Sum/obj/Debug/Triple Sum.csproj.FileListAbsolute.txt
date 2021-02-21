@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\bin\Debug\Triple Sum.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\bin\Debug\Triple Sum.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\bin\Debug\Triple Sum.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\obj\Debug\Triple Sum.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\obj\Debug\Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\obj\Debug\Triple Sum.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Triple Sum\obj\Debug\Triple Sum.pdb
