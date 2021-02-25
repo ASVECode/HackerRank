@@ -1,0 +1,7 @@
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.exe.config
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.pdb
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.csprojAssemblyReference.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.csproj.CoreCompileInputs.cache
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.exe
+C:\Users\Mishka\Desktop\HackerRank\HackerRank\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.pdb
