@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets", "Balanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Swaps 2", "Minimum Swaps 2\Minimum Swaps 2.csproj", "{601AA709-F6F4-4FA6-863B-E1F770DAA560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulation", "Array Manipulation\Array Manipulation.csproj", "{7E8E74E5-BB61-4841-8CD5-7174DE98F5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{601AA709-F6F4-4FA6-863B-E1F770DAA560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{601AA709-F6F4-4FA6-863B-E1F770DAA560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{601AA709-F6F4-4FA6-863B-E1F770DAA560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8E74E5-BB61-4841-8CD5-7174DE98F5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8E74E5-BB61-4841-8CD5-7174DE98F5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8E74E5-BB61-4841-8CD5-7174DE98F5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8E74E5-BB61-4841-8CD5-7174DE98F5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
