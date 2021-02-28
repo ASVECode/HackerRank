@@ -1,0 +1,7 @@
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\bin\Debug\Sorting Bubble Sort.exe.config
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\bin\Debug\Sorting Bubble Sort.exe
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\bin\Debug\Sorting Bubble Sort.pdb
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\obj\Debug\Sorting Bubble Sort.csprojAssemblyReference.cache
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\obj\Debug\Sorting Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\obj\Debug\Sorting Bubble Sort.exe
+C:\Users\PC-2\Desktop\HR\HackerRank\Sorting Bubble Sort\obj\Debug\Sorting Bubble Sort.pdb
