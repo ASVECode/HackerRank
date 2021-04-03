@@ -1,44 +1,65 @@
-function heartDelivery(arr) {
+function activationKeys(arr) {
     arr = arr.filter(x => x !== "")
-    const field = arr.shift().split("@").map(Number)
+    let activationKey = arr.shift();
     arr.pop()
-    arr = arr.map(x => x.split(" ")[1]).map(Number)
-    let currentIndex = 0
+    arr = arr.map(x => x.split(">>>"));
 
     for (let i = 0; i < arr.length; i++) {
-        if (currentIndex + arr[i] >= field.length) {
-            currentIndex = 0
-        } else {
-            currentIndex += arr[i]
-        }
+        let command = arr[i][0];
+        switch (command) {
+            case "Slice": {
+                let firstIndex = Number(arr[i][1]);
+                let lastIndex = Number(arr[i][2]);
+                let elementsToRemove = lastIndex - firstIndex;
+                activationKey = activationKey.split('');
+                activationKey.splice(firstIndex, elementsToRemove);
+                activationKey = activationKey.join('');
+                console.log(activationKey);
+            }
+                break;
+            case "Flip": {
+                let firstIndex = Number(arr[i][2]);
+                let lastIndex = Number(arr[i][3]);
+                let substr = activationKey.slice(firstIndex, lastIndex);
 
-        if (field[currentIndex] === 0) {
-            console.log(`Place ${currentIndex} already had Valentine's day.`)
-            continue
+                if (arr[i][1] == "Upper") {
+                    substr = substr.toUpperCase();
+                } else {
+                    substr = substr.toLowerCase();
+                }
+                activationKey = activationKey.slice(0, firstIndex) + substr + activationKey.slice(lastIndex, activationKey.length);
+            }
+                console.log(activationKey)
+                break;
+            case "Contains": {
+                if (activationKey.includes(arr[i][1])) {
+                    console.log(`${activationKey} contains ${arr[i][1]}`);
+                } else {
+                    console.log("Substring not found!");
+                }
+            }
+                break;
         }
-        field[currentIndex] -= 2
-        if (field[currentIndex] === 0) {
-            console.log(`Place ${currentIndex} has Valentine's day.`)
-        }
-
     }
-    console.log(`Cupid's last position was ${currentIndex}.`)
-    field.every(x => x === 0)
-        ? console.log(`Mission was successful.`)
-        : console.log(
-            `Cupid has failed ${field.filter(x => x !== 0).length} places.`
-        )
+  
+    return `Your activation key is: ${activationKey}`
 }
-// console.log(heartDelivery(['10@10@10@2',
-//     'Jump 1',
-//     'Jump 2',
-//     'Love!'
-// ]))
-console.log(heartDelivery(['2@4@2',
-    'Jump 2',
-    'Jump 2',
-    'Jump 8',
-    'Jump 3',
-    'Jump 1',
-    'Love!']
+
+console.log(activationKeys(["abcdefghijklmnopqrstuvwxyz",
+    "Slice>>>2>>>6",
+    "Flip>>>Upper>>>3>>>14",
+    "Flip>>>Lower>>>5>>>7",
+    "Contains>>>def",
+    "Contains>>>deF",
+    "Generate"
+]
 ))
+console.log(activationKeys(["134softsf5ftuni2020rockz42",
+    "Slice>>>3>>>7",
+    "Contains>>>-rock",
+    "Contains>>>-uni-",
+    "Contains>>>-rocks",
+    "Flip>>>Upper>>>2>>>8",
+    "Flip>>>Lower>>>5>>>11",
+    "Generate"
+    ]))
